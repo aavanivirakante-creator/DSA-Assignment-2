@@ -1,0 +1,14 @@
+MAX HEAP INSERTION
+After inserting 45: 45
+After inserting 72: 72 45
+After inserting 30: 72 45 30
+After inserting 90: 90 72 30 45
+After inserting 65: 90 72 30 45 65
+After inserting 50: 90 72 50 45 65 30
+After inserting 85: 90 72 85 45 65 30 50
+
+HEAP SORT
+30 45 50 65 72 85 90
+
+QUICK SORT
+30 45 50 65 72 85 90
